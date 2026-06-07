@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -14,3 +15,26 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+=======
+# Video Editor Portfolio
+
+A personal portfolio website built with React.js showcasing my work as a Video Editor, Creative Director, and Visual Storyteller.
+
+## Built With
+- React.js
+- CSS3 (animations, hover effects, scroll triggers)
+- YouTube embeds for video showcase
+
+## Features
+- Cinematic hero section with scroll animations
+- Stats section with IntersectionObserver scroll triggers
+- Embedded video grid (landscape + portrait)
+- Interactive hover effects throughout
+- Contact section with direct links
+
+## Sections
+- Hero
+- Stats & Journey
+- Work / Projects
+- Contact
+>>>>>>> 3da1a1621c9a0c5027652ee0bc6d67a405a25abf
